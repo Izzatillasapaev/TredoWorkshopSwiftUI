@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import TSpm
 
 @main
 struct TredoWorkshopApp: App {
